@@ -7,6 +7,7 @@ public class Main{
 		int a = 24;
 		int b = 3;
 		
+		System.out.println("Following are the calcuclations");
 		System.out.println("Sum is: "+m.sum(a,b));	
 		System.out.println("Product is: "+m.prod(a,b));	
 		System.out.println("Quotient is: "+m.div((double)a,(double)b));
